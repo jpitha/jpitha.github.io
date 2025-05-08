@@ -3,6 +3,7 @@ source 'http://rubygems.org'
 gem "jekyll"
 gem "kramdown-parser-gfm"
 gem 'wdm', '>= 0.1.1' if Gem.win_platform?
+gem "rouge"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
