@@ -97,6 +97,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   kramdown-parser-gfm
+  rouge
   tzinfo (>= 1, < 3)
   tzinfo-data
 
