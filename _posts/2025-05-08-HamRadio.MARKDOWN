@@ -1,0 +1,8 @@
+---
+layout: post
+title: "I have a ham radio"
+---
+
+#Welcome
+
+**I have a ham radio**, this is a test post to see if blogging works
